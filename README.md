@@ -1,4 +1,4 @@
-- freenode (IRC): `jasan`
+- freenode (sometimes, both libera and freenode): `jasan`
 - [TweetNaCl][tw] pubkey: `ni4CTTv0enoolaLTvGUQVnXxxzitmMOjRlMRGhWQcWA=`
 - [lightning network node][ln] id: `032de5c0f28f9d7d10c0c0b5ec92e83f9bf40def2bf40181c0f4330c57e58a8605`
   - running latest `master` [c-lightning][cl] compiled on
